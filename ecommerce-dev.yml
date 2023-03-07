@@ -1,0 +1,6 @@
+token:
+  expiration_time: 65000
+  secret: 12312412412412435wetqwetqwetszdfzsxcvzxcvartawet212zxcv_dev
+
+gateway:
+  ip: 192.168.50.19
